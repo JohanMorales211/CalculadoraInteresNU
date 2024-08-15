@@ -1,6 +1,10 @@
-## Calculadora de Interés Compuesto NU
+## Calculadora de Interés Compuesto - Inspirada en NU
 
-Este proyecto es una calculadora de interés compuesto simple y fácil de usar, construida con React. Permite a los usuarios calcular el interés ganado en un depósito inicial (principal) durante un período de tiempo determinado, utilizando una tasa de interés anual especificada. 
+Este proyecto es una calculadora de interés compuesto simple y fácil de usar, construida con React.  Si bien está inspirada en la estética de **NU**, como se muestra en la siguiente imagen, su funcionalidad puede adaptarse a cualquier banco.
+
+![Imagen de NU](https://blog.nu.com.mx/wp-content/uploads/2023/05/BlogNu_HEADER-1.jpg)
+
+Permite a los usuarios calcular el interés ganado en un depósito inicial (principal) durante un período de tiempo determinado, utilizando una tasa de interés anual especificada. 
 
 La calculadora proporciona resultados detallados, incluyendo el interés diario, el interés ganado en un mes y un año, así como el total acumulado después de un mes y un año.
 
@@ -32,15 +36,8 @@ Los resultados se muestran en tarjetas individuales y  incluyen:
 * **Interfaz intuitiva:** Fácil de usar y comprender.
 * **Resultados precisos:** Cálculos precisos basados en la fórmula del interés compuesto.
 * **Formato de moneda:** Los resultados se muestran en formato de moneda local (COP) para una mejor legibilidad.
+* **Adaptable:** Si bien la estética actual está inspirada en NU, la calculadora puede modificarse fácilmente para reflejar la marca de cualquier otro banco.
 
 ### Desarrollado por
 
 Johan Morales
-
-### Notas Adicionales
-
-Este proyecto fue creado con fines educativos y de demostración. La información proporcionada por esta calculadora no debe considerarse como asesoramiento financiero profesional.
-
----
-
-**¡Siéntete libre de contribuir a este proyecto!** Cualquier sugerencia o mejora es bienvenida. Puedes crear un fork del repositorio y enviar un pull request con tus cambios.
