@@ -40,6 +40,12 @@ Los resultados se muestran en tarjetas individuales y  incluyen:
 * **Formato de moneda:** Los resultados se muestran en formato de moneda local (COP) para una mejor legibilidad.
 * **Adaptable:** Si bien la estética actual está inspirada en NU, la calculadora puede modificarse fácilmente para reflejar la marca de cualquier otro banco.
 
-### Desarrollado por
 
-Johan Morales
+---
+
+<div align="center">
+  <p>Creado con ❤️ por <a href="https://github.com/tu-usuario-de-github" target="_blank">Johan Morales</a></p>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszq/giphy.gif" width="200" alt="Animación de código">
+</div>
+
+---
